@@ -18,33 +18,15 @@
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
   },
   {
-    "id": "H1f-Bx8yc",
-    "companyId": "HJRa-DOuG",
-    "title": "New Job",
-    "description": "Description of new job from GraphQL"
+    "id": "SyO9uQLy9",
+    "title": "new",
+    "description": "new",
+    "companyId": "SJV0-wdOM"
   },
   {
-    "id": "BJNRHgU15",
-    "companyId": "HJRa-DOuG",
-    "title": "New Job number 2",
-    "description": "Description of new job number 2 from GraphQL"
-  },
-  {
-    "id": "BJmf8gIJc",
-    "companyId": "HJRa-DOuG",
-    "title": "New Job number 2",
-    "description": "Description of new job number 2 from GraphQL"
-  },
-  {
-    "id": "HJB8qe8yc",
-    "companyId": "HJRa-DOuG",
-    "title": "New job from variables ID NEW",
-    "description": "The new job description NEW"
-  },
-  {
-    "id": "B17D6lI1q",
-    "companyId": "HJRa-DOuG",
-    "title": "New job from form",
-    "description": "I am a new job directly from the form"
+    "id": "Bkb2dXUk9",
+    "title": "new front",
+    "description": "nre",
+    "companyId": "HJRa-DOuG"
   }
 ]
