@@ -2,6 +2,7 @@ const db = require("./db");
 
 const Query = {
   //   greeting: () => "Hello world",
+  job: (root, {id}) => db.jobs.get(id),
   jobs: () => db.jobs.list(),
 };
 
